@@ -6,14 +6,14 @@ Any changes that we make without internet, will then be logged and documented on
 
 ## Technologies Used
 
-Node
-Express
-Mongo
-Mongoose
-Morgan
-Javascript
-HTML
-CSS
+- Node
+- Express
+- Mongo
+- Mongoose
+- Morgan
+- Javascript
+- HTML
+- CSS
 
 ### Development Link
 
